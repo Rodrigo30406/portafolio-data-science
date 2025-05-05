@@ -1,4 +1,4 @@
-# Rodrigo Rodríguez Montes – Portafolio Profesional
+# Portafolio Profesional - Rodrigo Rodriguez Montes
   
 Este espacio centraliza y organiza los distintos proyectos que he ido desarrollando como parte de mi formación y crecimiento profesional en ciencia de datos, machine learning y análisis predictivo.
 
@@ -14,7 +14,7 @@ Este proyecto aborda la predicción de ventas en tiendas utilizando modelos de s
 - Modelado con LSTM para series de tiempo.
 - Uso de pipelines de preprocesamiento y evaluación de métricas.
 
-📫 **Contacto**: rodrigo.rodriguez@email.com  
+📫 **Contacto**: rodrigo.rodriguez@pucp.edu.pe  
 🔗 [LinkedIn](https://www.linkedin.com/in/rodrirm)
 
 ---
